@@ -1,2 +1,2 @@
 # Myportfolio
-Code for Personal site
+Code for Personal site model
